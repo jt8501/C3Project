@@ -14,6 +14,6 @@ activityName
 		WALKING_UPSTAIRS
 		
 Columns 3-69 (timeBodyAcceleratioNMeanX through frequencyBodyBodyGyroJerkMagsTimed)
-	Double - Normalized value capture of movement data
+	Double - Normalized value capture of movement data.  All values between -1 and 1.
 		For specifics regarding methodology, refer to the original dataset (source listed in README.txt)
 		
